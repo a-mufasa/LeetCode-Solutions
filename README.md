@@ -4,7 +4,7 @@ Repository that contains all of my successful LeetCode practice submissions.
 
 | # | Title | Solution |
 | --- | --- | --- |
-|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](Python\14-Longest-Common-Prefix.py)|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](LeetCode-Solutions\blob\main\Python\14-Longest-Common-Prefix.py)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](Java\146-LRU-Cache.java)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](Python\205-Isomorphic-Strings.py)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](JavaScript\234-Palindrome-Linked-List.js)|
