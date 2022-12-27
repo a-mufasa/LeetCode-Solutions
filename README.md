@@ -5,8 +5,10 @@ Repository that contains all of my successful LeetCode practice submissions.
 | # | Title | Solution |
 | --- | --- | --- |
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](Python/14-Longest-Common-Prefix.py)|
+|24|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](Python/21-Merge-Two-Sorted-Lists.py)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](Java/146-LRU-Cache.java)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](Python/205-Isomorphic-Strings.py)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](Python/206-Reverse-Linked-Lists.py)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](JavaScript/234-Palindrome-Linked-List.js)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](Python/392-Is-Subsequence.py)|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](Java/547-Number-of-Provinces.java)|
