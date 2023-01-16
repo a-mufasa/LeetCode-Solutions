@@ -6,6 +6,7 @@ Repository that contains all of my successful LeetCode practice submissions.
 | --- | --- | --- |
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](Python/14-Longest-Common-Prefix.py)|
 |24|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](Python/21-Merge-Two-Sorted-Lists.py)|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](Python/121-Best-Time-to-Buy-and-Sell-Stock.py)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](Python/142-Linked-List-Cycle-II.py)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](Java/146-LRU-Cache.java)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](Python/205-Isomorphic-Strings.py)|
