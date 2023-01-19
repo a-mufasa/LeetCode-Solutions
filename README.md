@@ -15,6 +15,7 @@ Repository that contains all of my successful LeetCode practice submissions.
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](Python/392-Is-Subsequence.py)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](Python/409-Longest-Palindrome.py)|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](Java/547-Number-of-Provinces.java)|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](Python/589-N-ary-Tree-Preorder-Traversal.py)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](Python/724-Find-Pivot-Index.py)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](Python/876-Middle-of-the-Linked-List.py)|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](Java/1041-Robots-Bounded-in-Circle.java)|
