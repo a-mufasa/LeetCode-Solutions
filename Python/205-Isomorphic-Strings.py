@@ -13,3 +13,4 @@ class Solution:
             ts_map[t[i]] = s[i]
 
         return True
+        

@@ -8,3 +8,4 @@ class Solution:
         head.next = None
 
         return reverse
+        

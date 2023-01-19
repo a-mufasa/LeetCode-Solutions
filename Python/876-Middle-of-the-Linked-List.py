@@ -13,3 +13,4 @@ class Solution:
             middle = middle.next
             head = head.next.next
         return middle
+        
