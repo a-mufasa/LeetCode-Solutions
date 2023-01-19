@@ -7,3 +7,4 @@ class Solution:
                 return i
             left_sum += num
         return -1
+        

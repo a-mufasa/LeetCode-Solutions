@@ -13,3 +13,4 @@ class Solution:
             merged = list2
             merged.next = self.mergeTwoLists(list1, list2.next)
         return merged
+        
