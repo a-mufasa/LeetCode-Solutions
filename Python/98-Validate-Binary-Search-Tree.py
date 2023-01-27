@@ -8,3 +8,4 @@ class Solution:
             return inOrderCheck(node.left, min_val, node.val) and inOrderCheck(node.right, node.val, max_val)
 
         return inOrderCheck(root, float('-inf'), float('inf'))
+        
