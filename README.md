@@ -11,6 +11,7 @@ Repository that contains all of my successful LeetCode practice submissions.
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](Python/121-Best-Time-to-Buy-and-Sell-Stock.py)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](Python/142-Linked-List-Cycle-II.py)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](Java/146-LRU-Cache.java)|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](Python/200-Number-of-Islands.py)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](Python/205-Isomorphic-Strings.py)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Python](Python/206-Reverse-Linked-Lists.py)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](JavaScript/234-Palindrome-Linked-List.js)|
