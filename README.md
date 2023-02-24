@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Repository that contains all of my successful LeetCode practice submissions.
+Repository that contains all of my successful LeetCode submissions.
 
 | # | Title | Solution |
 | --- | --- | --- |
